@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "uefi.h": "c",
+        "uefilib.h": "c",
+        "uefibasetype.h": "c",
+        "uefispec.h": "c",
+        "base.h": "c",
+        "processorbind.h": "c",
+        "*.cp": "cpp",
+        "uefibootservicestablelib.h": "c",
+        "printlib.h": "c",
+        "loadedimage.h": "c",
+        "simplefilesystem.h": "c",
+        "diskio2.h": "c"
+    },
+    "workbench.colorTheme": "Default High Contrast",
+    "C_Cpp.clang_format_style": "Google",
+}
